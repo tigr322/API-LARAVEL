@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "Пользователь зарегистрирован",
+    "data": {
+        "email": "43@mail.ru",
+        "gender": "male",
+        "updated_at": "2025-02-20T19:51:14.000000Z",
+        "created_at": "2025-02-20T19:51:14.000000Z",
+        "id": 3
+    },
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5ZTQyNjY4Yy01MmRjLTQxYTMtYmM4My0xNjhlNjBjOTljMzYiLCJqdGkiOiI0OTYzMDNkM2VlM2Y4ODhjNjM1ZjNiZmJlZjU4N2E4YTJhMjFlYTJjODJlMGQ5YzE0ODkzM2I5MGU1YzQ0ZmJlMjljNWQyNWEwNjNmMjczZCIsImlhdCI6MTc0MDA4MTA3NC45NDk2NjMsIm5iZiI6MTc0MDA4MTA3NC45NDk2NjQsImV4cCI6MTc3MTYxNzA3NC45NDc3NDIsInN1YiI6IjMiLCJzY29wZXMiOltdfQ.MbPMfeEZ05Hc8v7uq_7JF8t8lpQOz98kn00W5iNkOe9z9yxGPS_61068w52sW5cSWQwzDyR2IlM-jkoeZcOhcfbwoppl-rIgIa0oywqfwmF8U2e-jo6l7Lnntrw0XgVhaoOnF6jYOy8IDZUR0Et35GzeW1w9kQZagBRpiCgTikaPXtC2FK_v1AfWB47zA-BsV9nvbzc772odDpM3iov7Qb5hSNwd6fBHxmRsiYzYnSeXRlaisgVOKYr88lIqJCTNslbA3wzmG4ngt8WLa0y8H7kPO6Tdr_Lt0f0O7ieMegW_SDsIjrphMidu_jRW0qtJSb0HhtYc-300fe4RN2YAvjcvN_Vpcs0ehH9mRlZsghb8vFhGg90xBm3jsmUDicNGUntY2SznEsWBwJm22mDMJv4jywwf7Mpbeez26cCrsM2gC_RO3vPFlfA_9rY1HtisH4ajFdJ1QouTO1tfyWwmXvd1SyZ7k2QsVzORyPa3EhwXOpI9qMQ89hKhS8Bp3bTA5rFyrVj40lQm914wqg8Z_DMguRxSfhjGSmAquX-mLTNlZ1e_LhtVEnsLZj_aarKQgKh96fvc0zqHhO7UGtlOrMLNdOWF_yPKOdkIDFj9-jR_H41KYLImI_E36QyPjLV4jIsGzhHATN3BsgZp25t5oJUYamD7ujzk6QR4MFFgel8"
+}
